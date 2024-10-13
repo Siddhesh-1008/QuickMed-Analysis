@@ -11,7 +11,7 @@ import FileUploadModal from "./components/file-upload-modal";
 import RecordDetailsHeader from "./components/record-details-header";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const geminiApiKey = "AIzaSyBPZWBFmX3PEEzlzgOb2Jl-8ovRPEyPYtA";
+const geminiApiKey = "ADD UR GEMINI API KEY";
 
 /* FULL DETAILS ABOUT SINGLE RECORD  */
 function SingleRecordDetails() {
